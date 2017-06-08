@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/html/suitecrm/cache/themes/SuiteR/css/style.css</file>
+            <file>file:/var/www/html/suitecrm/custom/include/language/en_us.lang.php</file>
+            <file>file:/var/www/html/suitecrm/custom/modules/AOS_Products_Quotes/language/en_us.lang.php</file>
+            <file>file:/var/www/html/suitecrm/custom/modules/AOS_Products_Quotes/Ext/Vardefs/vardefs.ext.php</file>
+            <file>file:/var/www/html/suitecrm/modules/AOS_Products_Quotes/metadata/editviewdefs.php</file>
+            <file>file:/var/www/html/suitecrm/custom/Extension/modules/AOS_Products_Quotes/Ext/Vardefs/sugarfield_iddivisiones_c.php</file>
+            <file>file:/var/www/html/suitecrm/custom/Extension/modules/AOS_Products_Quotes/Ext/Vardefs/sugarfield_product_confirmed_c.php</file>
         </group>
     </open-files>
 </project-private>

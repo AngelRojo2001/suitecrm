@@ -1,8 +1,6 @@
 <?php
-// created: 2017-06-07 06:18:13
+// created: 2017-06-08 07:01:38
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
   'LBL_DATE_MODIFIED' => 'Date Modified',
@@ -16,6 +14,11 @@ $mod_strings = array (
   'LBL_NAME' => 'Name',
   'LBL_CREATED_USER' => 'Created by User',
   'LBL_MODIFIED_USER' => 'Modified by User',
+  'LBL_LIST_NAME' => 'Name',
+  'LBL_EDIT_BUTTON' => 'Edit',
+  'LBL_REMOVE' => 'Remove',
+  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
   'LBL_LIST_FORM_TITLE' => 'Products Quotes List',
   'LBL_MODULE_NAME' => 'Line Items',
   'LBL_MODULE_TITLE' => 'Products Quotes: Home',
@@ -57,4 +60,6 @@ $mod_strings = array (
   'LBL_PRODUCT_DISCOUNT_AMOUNT_USDOLLAR' => 'Discount Amount (Default Currency)',
   'LBL_VAT_AMT_USDOLLAR' => 'Tax Amount (Default Currency)',
   'LBL_PRODUCTS_SERVICES' => 'Product / Service',
+  'LBL_PRODUCT_CONFIRMED_C' => 'Confirmed',
+  'LBL_IDDIVISIONES_C' => 'Division',
 );
