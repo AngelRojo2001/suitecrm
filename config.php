@@ -1,5 +1,5 @@
 <?php
-// created: 2017-05-22 22:53:08
+// created: 2017-07-09 10:32:52
 $sugar_config = array (
   'addAjaxBannedModules' => 
   array (
@@ -233,7 +233,7 @@ $sugar_config = array (
   'default_subpanel_tabs' => true,
   'default_swap_last_viewed' => false,
   'default_swap_shortcuts' => false,
-  'default_theme' => 'SuiteP',
+  'default_theme' => 'SuiteR',
   'default_time_format' => 'h:ia',
   'default_user_is_admin' => false,
   'default_user_name' => '',
@@ -241,7 +241,8 @@ $sugar_config = array (
   'developerMode' => false,
   'disable_convert_lead' => false,
   'disable_export' => false,
-  'disable_persistent_connections' => 'false',
+  'disable_persistent_connections' => false,
+  'disabled_themes' => 'SuiteP,Suite7',
   'display_email_template_variable_chooser' => false,
   'display_inbound_email_buttons' => false,
   'dump_slow_queries' => false,
@@ -249,6 +250,7 @@ $sugar_config = array (
   'email_default_client' => 'sugar',
   'email_default_delete_attachments' => true,
   'email_default_editor' => 'html',
+  'email_xss' => 'YToxMzp7czo2OiJhcHBsZXQiO3M6NjoiYXBwbGV0IjtzOjQ6ImJhc2UiO3M6NDoiYmFzZSI7czo1OiJlbWJlZCI7czo1OiJlbWJlZCI7czo0OiJmb3JtIjtzOjQ6ImZvcm0iO3M6NToiZnJhbWUiO3M6NToiZnJhbWUiO3M6ODoiZnJhbWVzZXQiO3M6ODoiZnJhbWVzZXQiO3M6NjoiaWZyYW1lIjtzOjY6ImlmcmFtZSI7czo2OiJpbXBvcnQiO3M6ODoiXD9pbXBvcnQiO3M6NToibGF5ZXIiO3M6NToibGF5ZXIiO3M6NDoibGluayI7czo0OiJsaW5rIjtzOjY6Im9iamVjdCI7czo2OiJvYmplY3QiO3M6MzoieG1wIjtzOjM6InhtcCI7czo2OiJzY3JpcHQiO3M6Njoic2NyaXB0Ijt9',
   'enable_action_menu' => true,
   'enable_line_editing_detail' => true,
   'enable_line_editing_list' => true,
@@ -272,6 +274,7 @@ $sugar_config = array (
   'languages' => 
   array (
     'en_us' => 'English (US)',
+    'es_ES' => 'Español (España) - es_ES',
   ),
   'large_scale_test' => false,
   'lead_conv_activity_opt' => 'donothing',
